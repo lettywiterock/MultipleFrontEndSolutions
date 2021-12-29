@@ -1,0 +1,8 @@
+# Block file
+node_modules
+
+# user config
+.npmrc
+
+# tools config
+.vscode
